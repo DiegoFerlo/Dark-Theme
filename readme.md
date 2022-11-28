@@ -9,7 +9,7 @@ TEMA OSCURO
 
 ## Descripción 📑
 
-Este proyecto podeis ver una pagina base y en la parte superior tiene la opcion de poder cambiar de tema claro a tema oscuro en la pagina. cambia tanto el fondo de la pagina como el color de las letras e iconos.
+Este proyecto podeis ver una pagina base y en la parte superior tiene la opcion de poder cambiar de tema claro a tema oscuro en la pagina. Cambia tanto el fondo de la pagina como el color de las letras e iconos.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
